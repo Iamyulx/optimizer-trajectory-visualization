@@ -107,7 +107,7 @@ AdamW behaves similarly to Adam but includes decoupled weight decay
 
 Clone the repository:
 
-git clone https://github.com/yourusername/optimizer-trajectory-visualization
+git clone https://github.com/Iamyulx/optimizer-trajectory-visualization
 cd optimizer-trajectory-visualization
 
 Install dependencies:
